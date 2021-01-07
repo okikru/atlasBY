@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "df1c",
-"features": [
-{ "type": "Feature", "properties": { "street": "51 ул.Нестерова", "city": "Minsk", "state": "Minsk", "country": "Belarus", "lat": 53.8848515, "long": 27.684257 }, "geometry": null },
-{ "type": "Feature", "properties": { "street": "8 ул.Илимская", "city": "Minsk", "state": "Minsk", "country": "Belarus", "lat": 53.8889014, "long": 27.6892493 }, "geometry": null }
-]
-}
